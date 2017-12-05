@@ -208,10 +208,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:humam.alwassel@kaust.edu.sa"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/humam-alwassel-4375ba105/"
 
   [[params.social]]
     icon = "google-scholar"
