@@ -9,6 +9,9 @@ fi
 echo "Pushing Changes to Website Repo"
 git push -u origin master
 
+echo "Generating site"
+hugo
+
 echo "Publishing website"
 cd public
 git add .
